@@ -1,4 +1,4 @@
-# HAND2_SDK
+# platform
 
 垓代码库提供脑电设备、近红外设备打标API。
 
